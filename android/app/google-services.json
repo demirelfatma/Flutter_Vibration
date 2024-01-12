@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084006248337",
+    "project_id": "my-telefon-project",
+    "storage_bucket": "my-telefon-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084006248337:android:2d5d909e5d0428ed937430",
+        "android_client_info": {
+          "package_name": "com.example.vibration_appp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOGX26q0RyNej0B47Q6qHmRT4A3vvhR6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084006248337:android:41cc51f0e01dc924937430",
+        "android_client_info": {
+          "package_name": "com.merve.vibration_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOGX26q0RyNej0B47Q6qHmRT4A3vvhR6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
